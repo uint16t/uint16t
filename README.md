@@ -4,16 +4,13 @@
  <img alt+"OS: Linux" src="https://img.shields.io/badge/-OS-ebebeb?logo=Linux&style=for-the-badge&logoColor=white&label=LINUX&labelColor=1c1c1e"/>
  <img alt+"Distro: Manjaro" src="https://img.shields.io/badge/-Distro-ebebeb?logo=Manjaro&style=for-the-badge&logoColor=white&label=MANJARO&labelColor=1c1c1e"/>
  <img alt+"Editor: VIM" src="https://img.shields.io/badge/-Editor-ebebeb?logo=Vim&style=for-the-badge&logoColor=white&label=VIM&labelColor=1c1c1e"/>
- <img alt+"Main Browser: Firefox" src="https://img.shields.io/badge/-Browser-ebebeb?logo=Firefox%20Browser&style=for-the-badge&logoColor=white&label=Firefox&labelColor=1c1c1e"/>
- <img alt+"Alt Browser: Tor" src="https://img.shields.io/badge/-Browser-ebebeb?logo=Tor%20Browser&style=for-the-badge&logoColor=white&label=Tor&labelColor=1c1c1e"/>
+ <img alt+"Browser: Tor" src="https://img.shields.io/badge/-Browser-ebebeb?logo=Tor%20Browser&style=for-the-badge&logoColor=white&label=Tor&labelColor=1c1c1e"/>
 </p>
 <!--<br>-->
 <p align="center">
  <img alt+"Language: C" src="https://img.shields.io/badge/-Language-ebebeb?logo=C&style=for-the-badge&logoColor=white&label=C&labelColor=1c1c1e"/>
  <img alt+"Language: NodeJS" src="https://img.shields.io/badge/-Language-ebebeb?logo=Node.JS&style=for-the-badge&logoColor=white&label=NodeJS&labelColor=1c1c1e"/>
  <img alt+"Language: Dart" src="https://img.shields.io/badge/-Language-ebebeb?logo=Dart&style=for-the-badge&logoColor=white&label=Dart&labelColor=1c1c1e"/>
- <img alt+"Language: HTML" src="https://img.shields.io/badge/-Language-ebebeb?logo=HTML5&style=for-the-badge&logoColor=white&label=HTML&labelColor=1c1c1e"/>
- <img alt+"Language: CSS" src="https://img.shields.io/badge/-Language-ebebeb?logo=CSS3&style=for-the-badge&logoColor=white&label=CSS&labelColor=1c1c1e"/>
 </p>
 
 <p align="center">
