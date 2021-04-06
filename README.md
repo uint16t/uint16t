@@ -33,4 +33,4 @@
 I'm `uint16t`, or `unsigned` for short! I'm just a hobbyist developer that likes to focus on **low-level programming** (though, I still like to go out of that scope and experiement with '*high-level*' programming - such as web-dev/discord-bots/etc.). On the other hand, playing around with **Inkscape** is a thing that I also like to do. 
 <sub>However, I don't program as often as I'd like to, so don't expect consistent and frequent commits to my repositories!</sub>
 
-<h6>Wanna see my plans? They've moved <a href="https://github.com/uint16t/uint16t/blob/main/plans.md">here</a>!</h6>
+<h6>Wanna see my plans? I deleted them! Feel free to look at the commit history, if you want to take a look at them.</a>!</h6>
