@@ -29,7 +29,7 @@ I'm `uint16t`, or `unsigned` for short! I call myself a ***computer enthusiast**
 More recently, I've been enjoying toying around with basic **reverse engineering**, as it pulls ~~requires~~ knowledge from a variety of different 'sub-topics' within computing. It's also been a blast learning **x86** so far, and basic R.E. has really helped consolidate a few ideas (such as stack frames, jump tables, etc.). 
 
 
-**If, for whatever reason, you need to contact me, my e-mail *(& PGP key)* is provided above.** 
-<sub>An archaic communication method, I know, but while I do use other platforms: I currently choose to not place them on this page - but may do in the future.</sub>
+<h4>If, for whatever reason, you need to contact me, my e-mail *(& PGP key)* is provided above.</h6>
+<sup>An archaic communication method, I know, but while I do use other platforms: I currently choose to not place them on this page - but may do in the future.</sup>
 
 <h6>Wanna see my plans? I deleted them! Feel free to look at the commit history, if you want to take a look at them!</h6>
